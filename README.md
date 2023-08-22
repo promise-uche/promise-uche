@@ -1,5 +1,6 @@
+![prof_pic](prof_pic.png)
 ### Hi there 👋, my name is Promise
-#### I am Data  Analyst and Bioinformatician!
+#### I'm a Data  Analyst and Bioinformatician!
 I do  data analysis and Bioinformatics. I am very enthusiastic about deriving meaning  from  Business, Health,  and biological  data. I work  with  big data such as genomic and gene expression data, to derive markers for proper healthcare  decision-making and more  personalized  medicine.
 
 Skills: PYTHON / REACT / MS EXCELL
